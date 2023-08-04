@@ -1,0 +1,7 @@
+C:\Users\stefa\source\repos\calcular-horas-extras\calcular-horas-extras\bin\Debug\calcular-horas-extras.exe.config
+C:\Users\stefa\source\repos\calcular-horas-extras\calcular-horas-extras\bin\Debug\calcular-horas-extras.exe
+C:\Users\stefa\source\repos\calcular-horas-extras\calcular-horas-extras\bin\Debug\calcular-horas-extras.pdb
+C:\Users\stefa\source\repos\calcular-horas-extras\calcular-horas-extras\obj\Debug\calcular-horas-extras.csprojAssemblyReference.cache
+C:\Users\stefa\source\repos\calcular-horas-extras\calcular-horas-extras\obj\Debug\calcular-horas-extras.csproj.CoreCompileInputs.cache
+C:\Users\stefa\source\repos\calcular-horas-extras\calcular-horas-extras\obj\Debug\calcular-horas-extras.exe
+C:\Users\stefa\source\repos\calcular-horas-extras\calcular-horas-extras\obj\Debug\calcular-horas-extras.pdb
